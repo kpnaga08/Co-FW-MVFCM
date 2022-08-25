@@ -5,7 +5,7 @@ A matlab implementation of paper "Collaborative feature-weighted multi-view fuzz
 The details can be found in the [Pattern Recognition'21](https://ieeexplore.ieee.org/abstract/document/8793138/) <br /> 
 
 # Demo: 
-Please run the 'Co-FW-MVFCM.m', and reproduce the results on 'Prokaryotic Phyla' datasets.
+Please run the 'CoFLMVKM.m', and reproduce the results on 'Prokaryotic Phyla' datasets.
 
 **In case the repository or the publication was helpful in your work, please use the following to cite the original paper,**
 <pre><code> @article{yang2021collaborative,<br /> 
